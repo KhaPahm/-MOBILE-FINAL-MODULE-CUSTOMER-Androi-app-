@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_rice"
+        android:title="Cơm"
+        android:icon="@drawable/ic_rice">
+    </item>
+
+    <item
+        android:id="@+id/action_banhmi"
+        android:title="Bánh mì"
+        android:icon="@drawable/ic_banhmi">
+    </item>
+
+    <item
+        android:title="Nước giải khát"
+        android:icon="@drawable/ic_drink">
+    </item>
+
+    <item
+        android:id="@+id/action_noodle"
+        android:title="Mì"
+        android:icon="@drawable/ic_noodle">
+    </item>
+</menu>
